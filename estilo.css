@@ -1,14 +1,21 @@
-    .texto_centrado{
-        color:rgb(203, 30, 122);
+/*background-color sirve para cambiar el fondo de una palabra o conjunto de palabra*/
+
+body{
+background-color:rgb(161, 153, 153);
+}
+.texto_centrado{
+    color:rgb(255, 255, 255);
         text-align:center;
-    }
-    .línea{
-    
-    }
-    /*background-color sirve para cambiar el fondo de una palabra o conjunto de palabra*/
-    .fondo_negro{
-        background-color:black;
-    }
-    .letra1{
-        font-family: "Times New Roman";
-    }
+}
+
+/*fondo_negro*/
+
+.fondo_negro{
+    background-color:black;
+}
+
+/*letra1*/
+
+.letra1{
+    font-family: "Times New Roman";
+}
